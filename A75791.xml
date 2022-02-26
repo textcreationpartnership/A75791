@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Augusta's restoration from her city-calenture, by an emittick pill of quo warranto from Westminster.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75791</idno>
+            <idno type="STC">Wing A4204A</idno>
+            <idno type="STC">ESTC R172609</idno>
+            <idno type="EEBO-CITATION">45097504</idno>
+            <idno type="OCLC">ocm 45097504</idno>
+            <idno type="VID">171124</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75791)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171124)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2559:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Augusta's restoration from her city-calenture, by an emittick pill of quo warranto from Westminster.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Peter Trimme,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"The Tune is, Now, now the Fight's done, Or, The Delights of the Bottle."</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quo warranto --  England --  London.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Verse satire, English.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>London (England) --  History --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:171124:1"/>
+            <!-- PDF PAGE 14 -->
+            <head>Auguſta's Reſtoration from Her <hi>City-Calenture, <hi>By an Emittick</hi>
+               </hi> PILL OF QUO WARRANTO from <hi>Weſtminſter.</hi>
+            </head>
+            <opener>The Tune is, <hi>Now, now the Fight's done,</hi> Or, <hi>The Delights of the Bottle.</hi>
+            </opener>
+            <lg>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A<g ref="char:V">Ʋ</g>G<g ref="char:V">Ʋ</g>STA</hi> our fam'd Metropolitan Saint,</l>
+               <l>That does no Perfection, but Gratitude want;</l>
+               <l>So long with Retirement from Troubles was Bleſt,</l>
+               <l>She Contracted a Surfeit of Plenty and Reſt:</l>
+               <l>Grew ſick of her Eaſe, and all her Phyſitians,</l>
+               <l>Confeſs'd her Diſtemper was only <hi>Seditions.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Of a Purge and a Vomit they all did Conclude,</l>
+               <l>And ſome cooling <hi>Emultions</hi> to ſweeten her Blood;</l>
+               <l>But they were ſo long in Conſulting her Cure,</l>
+               <l>That her Feaver did Rage to a <hi>Callenture:</hi>
+               </l>
+               <l>A Doctor was asking what Planet did Rule,</l>
+               <l>When <hi>Auguſta</hi> cry'd out <hi>Quo Warranto</hi> you Fool.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Sir <hi>Patience</hi> much intereſted in her Affair,</l>
+               <l>Becauſe 'tis well known, he was once her Lord Mayor;</l>
+               <l>He turn'd up his Eyes, and cry'd farewel Old <hi>Tony,</hi>
+               </l>
+               <l>This City will ne'r again have ſuch a Crony:</l>
+               <l>Tho' much may be ſaid of <hi>Pop—on Du—ſe,</hi>
+               </l>
+               <l>Then <hi>Auguſta</hi> ſhe Laught, and cry'd hang up th Choice.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>The <hi>Chamberlain</hi> hoping <hi>Auguſta</hi> to pleaſe,</l>
+               <l>Threw up his Accounts, which was nothing but Keys;</l>
+               <l>I am ſorry, quoth he, for to ſee ſuch Diſorder,</l>
+               <l>But do you ſay the reſt, pray good Mr. <hi>Recorder:</hi>
+               </l>
+               <l>The Knight ſaid no more, but away he did Bundle,</l>
+               <l>As faſt as he could to <hi>Moor-Fields</hi> to his Trundle.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Poor <hi>Be—l</hi> and <hi>Corniſh</hi> they only did ſay,</l>
+               <l>If <hi>Auguſta</hi> were pleas'd, Doctor <hi>Oats</hi> he would Bray;</l>
+               <l>
+                  <hi>Ban—r</hi> ſtood by and deſir'd her conſent,</l>
+               <l>
+                  <hi>Ignoramus,</hi> quoth ſhe, 'tis too late to Repent:</l>
+               <l>If you and your Jurys for Pardon can hope,</l>
+               <l>He deſerves to be Hang'd that's afraid of a Rope.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>By this time the News to Great <hi>Caeſar</hi> was brought,</l>
+               <l>How <hi>Auguſta</hi> lay ſick, and no Cure could be wrought;</l>
+               <l>His Scarlet Phyſitians appointed a day,</l>
+               <l>To conclude with her Friends of the ſpeedieſt way:</l>
+               <l>They all did conclude this Malignant Diſeaſe,</l>
+               <l>Was too too much Freedom, Indulgence, and Eaſe.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>For which they prepar'd her a rare Purging Pill,</l>
+               <l>And all the grave Doctors Subſcrib'd to the Bill;</l>
+               <l>It went 'gainſt her heart, but it Work'd in a trice,</l>
+               <l>Then up came <hi>Po—on,</hi> and down went <hi>Du—ſe:</hi>
+               </l>
+               <l>Thus upward or downward, till all ſhe had eaten,</l>
+               <l>Came <hi>Co—ſh</hi> and <hi>Be—l,</hi> Sir <hi>W—d,</hi> and Sir <hi>Cl—<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.</hi>
+               </l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>
+                  <hi>Shaftsbury</hi>'s Jury, and <hi>College</hi> the Martyr,</l>
+               <l>
+                  <hi>H—in</hi> and <hi>Pl—r,</hi> and at laſt came the <hi>Charter;</hi>
+               </l>
+               <l>Nay, now, quoth the Doctors, no doubt you'l do well,</l>
+               <l>Theſe lay on your ſtomach and made it Rebell:</l>
+               <l>But that they may never offend you no more,</l>
+               <l>Pray turn them together down your Common-ſhore.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>She ſigh'd for to think that ſuch dear Friends muſt part,</l>
+               <l>Yet Humbly confeſt ſhe was lighter at heart;</l>
+               <l>And begg'd that great <hi>Caeſar</hi> would graciouſly pleaſe,</l>
+               <l>To think ſhe no more would complain of her Eaſe:</l>
+               <l>And vow'd that ſhe ne'r would deſerve his Reproach,</l>
+               <l>For his Doctors had made her as ſound as a Roach.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Peter Trimme<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
